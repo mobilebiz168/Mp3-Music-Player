@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--grey 300-->
+    <color name="ic_launcher_background">#E0E0E0</color>
+
+    <color name="twenty_percent_black_overlay">#34000000</color>
+    <color name="fifty_percent_black_overlay">#88000000</color>
+
+    <color name="app_shortcut_default_foreground">@color/md_blue_grey_500</color>
+    <color name="app_shortcut_default_background">@color/md_grey_50</color>
+
+
+    <!--
+     Default theme
+     -->
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryDark">#37474F</color>
+
+
+    <!--
+     Ringdroid
+     -->
+
+    <!-- Waveform view -->
+    <color name="waveform_selected">#33b5e5</color>
+    <color name="waveform_unselected">#195a72</color>
+    <color name="waveform_unselected_bkgnd_overlay">#0a242d</color>
+    <color name="selection_border">#ffffff</color>
+    <color name="playback_indicator">#ffff66</color>
+    <color name="grid_line">#66ffffff</color>
+    <color name="timecode">#ddffffdd</color>
+    <color name="timecode_shadow">#aa000000</color>
+
+    <!-- Other -->
+    <color name="rounded_bg">#cececf</color>
+    <color name="icon_bg">#818283</color>
+
+    <color name="edit_top_bg">#1e1d1d</color>
+    <color name="edit_bottom_bg">#303030</color>
+    <color name="edit_line_divider">#666677</color>
+
+</resources>
